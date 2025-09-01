@@ -111,3 +111,5 @@ Sou Derick Dutra, estudante de Ciência da Computação e apaixonado por tecnolo
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickDutraDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+![Snake animation](https://raw.githubusercontent.com/DerickDutraDev/DerickDutraDev/output/snake.svg)
