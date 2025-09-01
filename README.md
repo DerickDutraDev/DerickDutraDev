@@ -113,6 +113,6 @@ Sou Derick Dutra, estudante de Ciência da Computação e apaixonado por tecnolo
 </p>
 <div align="center">
     
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DerickDutraDev/DerickDutraDev/output/snake.svg" alt="Snake animation" />
 
 </div>
